@@ -1,2 +1,2 @@
 # PN_GAN
-some demo modes/codes will be released here
+some demo modes/codes of PN_GAN will be released here.
