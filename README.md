@@ -1,8 +1,8 @@
 # PN_GAN
 This 'test_file' contains four folders:
-    - dataset: it contains all synthesized images of VIPeR dataset; due to the size of files, I upload the jpeg files via  
+    
+	- dataset: it contains all synthesized images of VIPeR dataset; due to the size of files, I upload the jpeg files via  
 	https://drive.google.com/open?id=1edWARIlBcaRFNrrgehUZhnoxXbsmQsKI
-	
     - feature: where to save the features of probe and gallery
     - model: it has two files, caffemodel and deploy.prototxt
     - script: it contains two python files, one text file and one matlab folder. Python files are used for calculating cmc score with python code (I modify it based on tong xiao's code.), text file is the data list for testing, matlab folder is used for calculating cmc score with matlab code (I modify it based on zhedong's code.)
