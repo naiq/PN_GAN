@@ -1,5 +1,5 @@
 # PN_GAN
-In current version, we only release the ResNet-50-B model, the testing codes, as well as the synthesized images generated for the testing part of VIPeR dataset. The other parts of our project will be released later.
+In current version, we only release the ResNet-50-B model, the testing codes, as well as the synthesized images generated for the testing part of VIPeR dataset. The other parts of our project will be released later.  any problem, drop email to : yanweifu@fudan.edu.cn
 
 
 This 'test_file' contains four folders:
