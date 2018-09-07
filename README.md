@@ -4,9 +4,9 @@ In current version, we release the codes of PN-GAN and re-id testing . The other
 How to run it:
 
 GAN:</br>
-(1) run 'GAN/train.py' to train the GAN model. The model and log file will be saved in folder 'GAN/model' and 'GAN/log' respectively. The validate images will be synthesized in 'GAN/images';
+&ensp&ensp(1) run 'GAN/train.py' to train the GAN model. The model and log file will be saved in folder 'GAN/model' and 'GAN/log' respectively. The validate images will be synthesized in 'GAN/images';
 
-or (2) run 'GAN/evaluate.py' to generate images for specific testing image. The output will be saved in folder 'GAN/test'
+&enspor (2) run 'GAN/evaluate.py' to generate images for specific testing image. The output will be saved in folder 'GAN/test'
 
 Person re-id:
 (1) run 'viper_feature.py' to extract features of probe and gallery, the features will be saved in folder '../feature/';
