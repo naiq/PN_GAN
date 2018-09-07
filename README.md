@@ -2,7 +2,9 @@
 In current version, we release the codes of PN-GAN and re-id testing . The other parts of our project will be released later.
 
 How to run it:
+
 GAN:
+
 (1) run 'GAN/train.py' to train the GAN model. The model and log file will be saved in folder 'GAN/model' and 'GAN/log' respectively. The validate images will be synthesized in 'GAN/images';
 
 or (2) run 'GAN/evaluate.py' to generate images for specific testing image. The output will be saved in folder 'GAN/test'
