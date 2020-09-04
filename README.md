@@ -42,4 +42,4 @@ If you find this project useful in your research, please consider cite:
 
 Any questions or discussion are welcome!
 
-Xuelin Qian ([xlqian15@fudan.edu.cn](xlqian15@fudan.edu.cn))
+Xuelin Qian (<xlqian15@fudan.edu.cn>)
