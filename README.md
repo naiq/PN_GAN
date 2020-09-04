@@ -2,6 +2,10 @@
 
 In current version, we release the codes of PN-GAN and re-id testing . The other parts of our project will be released later.
 
+## Framework:
+
+![img](https://github.com/naiq/PN_GAN/blob/master/fig/overview.jpg)
+
 ## How to run it:
 
 **GAN:**
@@ -22,7 +26,10 @@ or (2) run `GAN/evaluate.py` to generate images for specific testing image. The 
 
 (3) (optional) run `Market-1501_baseline/zzd_evaluation_res_faster.m` to compute cmc scores with matlab code. You can modify the code in line 93 to obtain different result of each metric learning (e.g. 'dist_avg.mat', 'dist_max.mat', or 'dist_concat.mat'). It should get the same results with step 2.
 
-	  	 
+## Visualization
+
+![img](https://github.com/naiq/PN_GAN/blob/master/fig/visualization.jpg)
+	  
 ## Acknowledgment:
 
 The testing codes are modified from Tong Xiao's code, and also refer to Zhedong Zheng's codes.
