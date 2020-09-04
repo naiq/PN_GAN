@@ -27,5 +27,13 @@ or (2) run `GAN/evaluate.py` to generate images for specific testing image. The 
 
 The testing codes are modified from Tong Xiao's code, and also refer to Zhedong Zheng's codes.
 
- 
+## Citation
+If you find this project useful in your research, please consider cite:
 
+    @inproceedings{qian2018pose,
+      title={Pose-normalized image generation for person re-identification},
+      author={Qian, Xuelin and Fu, Yanwei and Xiang, Tao and Wang, Wenxuan and Qiu, Jie and Wu, Yang and Jiang, Yu-Gang and Xue, Xiangyang},
+      booktitle={Proceedings of the European conference on computer vision (ECCV)},
+      pages={650--667},
+      year={2018}
+    }
