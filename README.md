@@ -4,7 +4,7 @@ In current version, we release the codes of PN-GAN and re-id testing . The other
 
 ## Framework:
 
-![img](https://github.com/naiq/PN_GAN/blob/master/fig/framework.png)
+<img src="https://github.com/naiq/PN_GAN/blob/master/fig/framework.png" width=800 length=400 alt="framework"/>
 
 ## Prepare data:
 Please download the reID dataset and organize it as follows (Market-1501 for example):
